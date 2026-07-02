@@ -85,25 +85,5 @@ healthcare-lakeflow-pipeline
 │
 └── README.md
 ```
-
----
-
-## 🎯 Skills Demonstrated
-
-- ETL Pipeline Design
-- Databricks Lakeflow
-- Delta Lake
-- PySpark
-- SQL
-- Incremental Processing
-- Data Quality Validation
-- Medallion Architecture
-
----
-
-## 🚀 Future Enhancements
-
-- Auto Loader for file ingestion
-- Workflow scheduling
 - Power BI dashboard integration
 - Parameterized pipeline configuration

@@ -67,6 +67,8 @@ Gold Layer
 
 ## 📊 Pipeline Execution
 
+The following image shows the successful execution of the Databricks Lakeflow Declarative Pipeline.
+
 ![Pipeline Graph](screenshots/pipeline_graph.png)
 
 ---

@@ -19,26 +19,12 @@ The pipeline incrementally processes healthcare data, applies data quality valid
 
 ---
 
-## 🏗️ Architecture
+## 🏗️ Solution Architecture
 
-```
-CSV Files
-     │
-     ▼
-Databricks Volumes
-     │
-     ▼
-Raw Delta Tables
-     │
-     ▼
-Bronze Layer
-     │
-     ▼
-Silver Layer
-     │
-     ▼
-Gold Layer
-```
+The following architecture illustrates the end-to-end flow of the healthcare data pipeline, from raw CSV ingestion to Gold-layer analytical datasets using the Medallion Architecture.
+
+![Solution Architecture](docs/architecture.png)
+
 
 ---
 

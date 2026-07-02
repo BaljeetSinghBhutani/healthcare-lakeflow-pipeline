@@ -85,5 +85,3 @@ healthcare-lakeflow-pipeline
 │
 └── README.md
 ```
-- Power BI dashboard integration
-- Parameterized pipeline configuration

@@ -63,6 +63,8 @@ The following image shows the successful execution of the Databricks Lakeflow De
 
 ```
 healthcare-lakeflow-pipeline
+├── docs
+│   ├── architecture.png
 │
 ├── notebooks
 │   ├── 01_ingest_raw_data.py
